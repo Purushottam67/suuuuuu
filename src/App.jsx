@@ -29,7 +29,7 @@ function App() {
       }}
     >
       <button style={buttonStyle} onClick={openPDF}>
-        View Certificate
+          Course Certificate
       </button>
     </div>
   );
